@@ -2,15 +2,15 @@
 django-session-activity
 =======================
 
-.. image:: https://pypip.in/v/django-session-activity/badge.png
+.. image:: https://img.shields.io/pypi/v/django-session-activity.svg
     :target: https://pypi.python.org/pypi/django-session-activity/
     :alt: Latest Version
 
-.. image:: https://pypip.in/d/django-session-activity/badge.png
+.. image:: https://img.shields.io/pypi/dm/django-session-activity.svg
     :target: https://pypi.python.org/pypi/django-session-activity/
     :alt: Downloads
 
-.. image:: https://pypip.in/license/django-session-activity/badge.png
+.. image:: https://img.shields.io/pypi/l/django-session-activity.svg
     :target: https://pypi.python.org/pypi/django-session-activity/
     :alt: License
 
